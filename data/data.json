@@ -1,0 +1,1746 @@
+{
+    "locations" : [
+        {
+            "name" : "Arrival Truck",
+            "nameAr" : "شاحنة الوصول",
+            "slug" : "reception",
+            "objRoom" : "obj/rooms/reception.js",
+            "obj360" : [
+                "truck"
+            ],
+            "light" : 2,
+            "camera" : {
+                "position" : {
+                    "x": -52.40,
+            		"z": 47.45,
+            		"y": 2.00
+                },
+                "lookAt": {
+                    "x": -52.03,
+            		"z": 46.93,
+            		"y": 1.76
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodySitC",
+        			"x": -50.51,
+        			"z": 45.83,
+        			"y": 1.1,
+        			"angle":47
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": -40.43,
+        			"z": 15.72,
+        			"y": 1.04,
+        			"angle": 174.6
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": -39.97,
+        			"z": 15.53,
+        			"y": 1.04,
+        			"angle": 150
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": -48.58,
+        			"z": 43.2,
+        			"y": 0.95,
+        			"angle": 91.4
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": -39.99,
+        			"z": 16.28,
+        			"y": 1.07,
+        			"angle": 154.1
+        		},
+
+        		{
+        			"name": "bodySitC",
+        			"x": -51.75,
+        			"z": 44.83,
+        			"y": 1.1,
+        			"angle":-133.5
+        		},
+
+        		{
+        			"name": "bodySitA",
+        			"x": -51.95,
+        			"z": 45.58,
+        			"y": 1.85,
+        			"angle":-113.2
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -51.06,
+        			"z": 46.4,
+        			"y": 1.85,
+        			"angle":67.6
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -52.78,
+        			"z": 46.8,
+        			"y": 1.85,
+        			"angle":-154.2
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -53.21,
+        			"z": 47.4,
+        			"y": 1.85,
+        			"angle":-30.6
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -52.1,
+        			"z": 48.15,
+        			"y": 1.85,
+        			"angle":67.6
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -53.21,
+        			"z": 47.4,
+        			"y": 1.85,
+        			"angle":-30.6
+        		},
+        		{
+        			"name": "bodySitB",
+        			"x": -50.2,
+        			"z": 45.12,
+        			"y": 0.94,
+        			"angle": 50
+        		},
+
+        		{
+        			"name": "bodySitB",
+        			"x": -52.46,
+        			"z": 46.02,
+        			"y": 0.94,
+        			"angle":-90
+        		},
+
+        		{
+        			"name": "bodySitA",
+        			"x": -51.78,
+        			"z": 47.60,
+        			"y": 1.85,
+        			"angle":67.6
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": -53.01,
+        			"z": 47.23,
+        			"y": 1.85,
+        			"angle":-119.3
+        		}
+        	],
+            "objects": [
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "truck_butBody",
+                    "mediaId" : "00",
+                    "opacity": 0.8,
+                    "doubleSide": false,
+                    "opacityHighLight": 0.5,
+                    "colorHighlight" : "#ff00ff"
+                },
+                {
+                    "fileName" : "truck_roadtosaydnaya_button",
+                    "mediaId" : "08",
+                    "opacity": 0.8,
+                    "doubleSide": false,
+                    "opacityHighLight": 0.5,
+                    "colorHighlight" : "#ff00ff"
+                }
+            ],
+            "sound" : {
+                "ambient" : "truck"
+            },
+            "info": "When transported to Saydnaya, prisoners were packed into delivery trucks referred to as ‘meat fridges’ and were not told where they where going. Upon arrival at the prison, prisoners were subjected to a notoriously brutal initiation known as a ‘welcome party’.\n\n“When we reached the prison, the guards opened the doors and started to scream at us and curse us,” Jamal recalled. “As soon as you get out of the vehicle and your feet touch the ground, the ‘welcome party’ begins… As we waited for our turn, we heard the sounds of beating, of people falling out of the truck, we heard people scream. Everyone was screaming, the guards and the prisoners.”\n\nAll the prisoners were severely beaten. The guards “used plastic and metal cables, even electric cables. They hit us absolutely everywhere, even on the head.” The beatings were meant to punish detainees and make them comply with the prison’s regime of terror. “They had to break us, they treated us like animals…they had no problem killing us right there and then.”\n\nIt was only upon arrival that most of the prisoners understood, for the first time, that they were in Saydnaya. For most, the prison was the last stop in a sequence of detentions; from Saydnaya, there was no onward transfer. “You either die or are released,” Jamal said.\n\nThe image space and soundtrack were reconstructed from witness interviews using computer architectural and acoustic modelling.",
+            "infoAr": "rapعندما رحِّلوا إلى صيدنايا، حُشر السجناء في شاحنات لنقل المواد التموينية أطلق عليها اسم 'برّادات اللحوم'، ولم يُبلّغوا بالمكان الذي يتجهون إليه. وعند وصولهم السجن، أخضع السجناء لحفل تلقين وحشي شنيع يعرف باسم 'حفل  الترحيب'.\n\n'عندما وصلنا السجن، فتح الحراس الأبواب، وراحوا يصرخون في وجوهنا ويشتموننا. حالما تخرج من المركبة وتلمس قدماك الأرض، يبدأ’حفل الترحيب‘،' يقول جمال مستعيداً ذكرياته، 'وبينما كنا ننتظر دورنا، كنا نسمع أصوات الضرب وأصوات سقوط أشخاص من الشاحنة، وصراخ آخرين. كان الجميع يصرخون، الحراس والسجناء'.\n\nتعرّض جميع السجناء للضرب المبرح. 'استعمل الحراس الأسلاك البلاستيكية والمعدنية، وحتى أسلاك الكهرباء. لقد ضربونا على كل مكان في أجسادنا تقريباً، حتى الرأس'. كان الغرض من الضرب هو معاقبة المعتقلين وجعلهم ينصاعون لنظام الرعب السائد في السجن. 'كان لا بد من كسرنا، فعاملونا كالحيوانات... لم تكن لديهم مشكلة في أن يقتلونا هناك وفي تلك اللحظة'. لم يدرك معظم السجناء أنهم في صيدنايا، للمرة الأولى إلا عند وصولهم. وبالنسبة لمعظمهم، كان السجن هو آخر المحطات في سلسلة من أماكن الاحتجاز؛ فبعد صيدنايا ليس ثمة مكان ينقلون إليه. أضاف جمال: 'فإما أن تبقى هنا حتى تموت أو حتى يفرج عنك'.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من مقابلات الشهود باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Samer & Jamal’s Solitary Cell",
+            "nameAr" : "زنازين سامر و جمال الانفرادية",
+            "slug" : "solitary-1",
+            "objRoom" : "obj/rooms/solitary-ac.js",
+            "obj360" : [
+                "isoCell01"
+            ],
+            "light" : 3.5,
+            "camera" : {
+                "position" : {
+                    "x": 0.98,
+            		"y": 1.2,
+            		"z": 0.9
+                },
+                "lookAt": {
+                    "x": 0.88,
+            		"y": 1.33,
+            		"z": 0.72
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyCrouchA",
+        			"x": 1.34,
+        			"z": 0.22,
+        			"y": 0,
+        			"angle": 342
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 0.25,
+        			"z": 0.56,
+        			"y": 0,
+        			"angle": 86
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 0.94,
+        			"z": 1.58,
+        			"y": 0,
+        			"angle": 175
+        		},
+
+        		{
+        			"name": "bodySitC",
+        			"x": 1.35,
+        			"z": 0.98,
+        			"y": 0,
+        			"angle": 82
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 0.48,
+        			"z": 1.27,
+        			"y": 0,
+        			"angle": -92
+        		},
+
+        		{
+        			"name": "bodyStandB",
+        			"x": 1.48,
+        			"z": 1.47,
+        			"y": 0.92,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 0.39,
+        			"z": 2.15,
+        			"y": 0.92,
+        			"angle": -5
+        		}
+            ],
+            "objects": [
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "isoCell01_butHatch",
+                    "mediaId" : "01",
+                    "opacity": 0.7
+                },
+                {
+                    "fileName" : "isoCell01_butPipe",
+                    "mediaId" : "02",
+                    "opacity": 0.5
+                }
+            ],
+            "sound" : {
+                "ambient" : "jamal_and_samer_solitary"
+            },
+            "info" : "After their arrival, prisoners spent the first period of incarceration – between a week and five months – in small cells 2.35m by 1.65m. These cells were built for solitary confinement but held up to 15 people at one time. Prisoners had to take turns sitting; there was no space to lie down. Jamal and Samer spent the first five months of their incarceration in a cell of this size.\n\nThe solitary cells are located one floor below ground level, but Samer and Jamal said they felt much deeper underground. They could hear almost nothing from the outside, and this meant they focused on the internal sounds of the prison.\n\nThe solitary cell in which Samer and Jamal were held was next to the stairs, so they heard a lot of comings and goings, as well as beatings and the footsteps of guards, from which they quickly learnt to identify each by his gait.\n\nLater, Jamal would be able identify the thunderous sound coming from above his ceiling: the scampering of 30 bare feet across the floor in the group cell above. This was the sound of prisoners rushing to assume the ‘security position’ – kneeling to face to the wall with their palmed pressed over their eyes – which they were forced to assume whenever the guards entered or came near a cell.\n\nSamer explained: “You never see anything in Saydnaya. Even if a killing happened in your cell. Either you’re the victim, or you’re facing the wall and hearing the beatings behind you. Only rarely are you able to see. Your crime in Saydnaya, you could die because of it, is to remove your hands from your eyes.”\n\nJamal and Samer could hear the guards prepare their torture instruments in the stairwell. Jamal regularly heard the “snapping of long, thick plastic sticks into shorter pieces.” They could also hear the weekly ‘welcome parties’ – which they had themselves experienced – during which new prisoners were severely beaten.\n\nUpon the arrival of new groups, Samer recalled the chief guard shouting the rules down the corridor for all to hear: “You are now in Saydnaya Prison. You wake up on command, you sleep on command, you eat on command.” Then he yelled: “You are sons of whom?” Everyone was forced to respond: “We are sons of bitches.”\n\nThis image space and soundtrack were reconstructed from the memory of Samer and Jamal using computer architectural and acoustic modelling.",
+            "infoAr": "بعد وصولهم، قضى السجناء الفترة الأولى من حبسهم- بين أسبوع واحد وخمسة أشهر- في زنازين صغيرة بقياس 2.35 متر في 1.65 متر. وبنيت هذه الزنازين من أجل الحبس الانفرادي، ولكنها كانت تكتظ بأعداد تصل إلى 15 سجيناً في بعض الأحيان. وكان السجناء يجلسون بالدور؛ ولم يكن هناك مجال للاستلقاء. وقضى جمال وسامر الأشهر الخمسة الأولى من سجنهم في زنزانة بهذا الحجم.\n\nوتقع الزنازين الانفرادية تحت الطابق الأرضي بطابق واحد، ولكن سامر وجمال قالا إنهما كانا يشعران بأنهما في مكان أعمق من ذلك تحت الأرض. فلم يكونا قادرين على سماع شيء من الخارج، وهذا يعني أنهما كانا يركزان على الأصوات القادمة من داخل السجن.\n\nوكانت الزنزانة الانفرادية التي احتجز فيها سامر وجمال بمحاذاة الدرج، ولذا كانا يسمعان جلبة الكثير من القادمين والمغادرين، وكذلك أصوات الضرب وخطوات الحراس، حيث تعلما بسرعة تمييز  الحراس من خلال مشيتهم.\n\nوبعد مرور الوقت، أصبح جمال يتعرف الى الصوت المدوي القادم من فوق زنزانته: هرولة 30 قدماً حافية على أرض الزنزانة الجماعية التي فوقه. كان هذا صوت السجناء وهم يهرولون كي   يشكّلوا وضعية 'الوضع الآمن'- فيركعون لمواجهة الحائط وأكفهم تضغط على عيونهم- وهو ما كانوا يجبرون على القيام به كلما دخل الحراس إلى الزنزانة أو اقتربوا منها.\n\n'في صيدنايا لا ترى أي شيء أبداً. حتى إذا حدثت عملية قتل في زنزانتك. فإما أن تكون الضحية أو تكون في مواجهة الحائط وتسمع الضرب خلفك،'  يفسّر لنا سامر، 'ونادراً ما تتمكن من رؤية شيء'. فجريمتك في صيدنايا، التي يمكن أن تموت بسببها، هي أن ترفع يديك عن عينيك'، يضيف سامر\n\nكان جمال وسامر يستطيعان أن يسمعا الحراس وهم يحضرون أدوات التعذيب في بيت الدرج. وكان جمال يسمع بانتظام 'صوت العصي البلاستيكية الطويلة والغليظة عندما كانت تقص'. كما كان باستطاعتهما أيضاً سماع الأصوات المنبعثة من 'حفلات الترحيب' الأسبوعية- التي جرباهما بنفسيهما- والتي كان السجناء الجدد يتعرضون أثناءها للضرب المبرح.\n\nيتذكر سامر أنه عندما كانت المجموعات الجديدة تصل، كان رئيس فرقة الحرس يصرخ بالتعليمات من طرف الممر بحيث يسمعه الجميع: 'أنتم الآن في سجن صيدنايا. تستيقظون بحسب الأوامر، وتنامون بحسب الأوامر، وتأكلون بحسب الأوامر'. ثم يصرخ بحدة أكبر: 'أنتم أبناء من؟' وكان يجبر الجميع على الردّ: 'نحن أبناء العاهرات'. صوات الأصوات\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة سامر وجمال باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Salam’s Solitary Cell",
+            "nameAr" : "زنزانة سلام الانفرادية",
+            "slug" : "solitary-2",
+            "objRoom" : "obj/rooms/solitary-d.js",
+            "obj360" : [
+                "isoCell02"
+            ],
+            "light" : 3.5,
+            "camera" : {
+                "position" : {
+                    "x": 0.83,
+            		"y": 0.53,
+            		"z": 1.19
+                },
+                "lookAt": {
+                    "x": 0.98,
+            		"y": 0.98,
+            		"z": 0.81
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyCrouchA",
+        			"x": 1.35,
+        			"z": 2.11,
+        			"y": 0,
+        			"angle": 184
+        		},
+        		{
+        			"name": "bodyRestD",
+        			"x": 0.95,
+        			"z": 1.09,
+        			"y": 0.22,
+        			"angle": 20
+        		},
+        		{
+        			"name": "bodyRestD",
+        			"x": 0.70,
+        			"z": 0.70,
+        			"y": 0.22,
+        			"angle": -160
+        		},
+        		{
+        			"name": "bodyRestD",
+        			"x": 0.70,
+        			"z": 1.39,
+        			"y": 0.22,
+        			"angle": -160
+        		},
+        		{
+        			"name": "bodyRestD",
+        			"x": 1.57,
+        			"z": 1.12,
+        			"y": 0.22,
+        			"angle": 110
+        		},
+        		{
+        			"name": "bodyRestE",
+        			"x": 0.97,
+        			"z": 0.29,
+        			"y": 0.18,
+        			"angle": -85
+        		}
+            ],
+            "objects": [
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "isoCell02butDoor",
+                    "mediaId" : "03",
+                    "opacity": 0.5
+                }
+            ],
+            "sound" : {
+                "ambient" : "salam_solitary"
+            },
+            "info": "Upon arrival at Saydnaya, Salam was stripped naked and severely beaten. He had no idea where he had been taken. Together with nine other prisoners, he was locked into a small, dark cell of four square metres.\n\nIn the cell “it is really dark, there is no light. The only light comes from the corridor – only a little bit of light. I knew that there was someone next to me, but I couldn’t see his face.” After several days, Salam’s eyes began to acclimatize to the dark: “every cell had text on the wall… some of the prisoners had written their names.”\n\nSalam heard water dripping from ceiling, and the guards creeping silently along the corridor. Worried about being identified by prisoners who could be freed, the guards usually did not speak and instead communicated with each other by clicking their fingers or used other non-audible gestures.\n\nThe guards played loud sounds that broke the silence. These sounds deprived the detainees of sleep and were also a form of mental torture. At night they played a pro-Assad song by the Lebanese singer Najwa Karam over and over again. Salam told us can never forget the lyrics: “We raise our hands, In the darkness of the nights. We swear on our honor, And on your precious name. Syria is our country, Hafez [Assad] you are our lion”.\n\nThe sound was so intense that he felt like his “head might explode”. It was “really loud and terrorizing. You can’t tell where it comes from. The whole building just shakes, and [it’s like] you are hearing the walls. The building has an echo. It’s like [the sounds are] breaking apart the wall.”\n\nThis song played at ear-piercing volumes throughout the underground solitary wing and was often punctuated by the sounds of beatings.\n\nThe image space and soundtrack were reconstructed from witness interviews using computer architectural and acoustic modelling.",
+            "infoAr": "لدى وصوله إلى صيدنايا، جُرد سلام من ملابسه تماماً وضرب ضرباً مبرحاً. لم تكن لديه فكره عن المكان الذي أخذ إليه. ومع تسعة سجناء آخرين، وجد نفسه في زنزانة صغيرة ومظلمة لا تزيد مساحتها عن أربعة أمتار مربعة.\n\nكانت الزنزانة 'مظلمة حقاً، فليس هناك ضوء. والضوء الوحيد كان يأتي من الممر- قدر قليل من الضوء. كنت أعرف أن هناك شخصاً بجانبي، ولكنني لم أستطع رؤية وجهه'. وبعد عدة أيام، بدأت عينا سلام بالاعتياد على الظلمة: 'كان هناك كتابات على جدار كل زنزانة.. وكان بعض السجناء قد كتبوا أسماءهم'.\n\nكان سلام يسمع صوت نقاط الماء وهي  تقطر من السقف، والحراس وهم يتسللون بصمت على طول الممر. فبسبب قلقهم من أن يتعرف عليهم السجناء الذين  قد يفرج عنهم، لم يكن من عادة الحراس أن يتكلموا، وعوضاً عن ذلك كانوا يتواصلون مع بعضهم البعض بفرقعة أصابعهم أو باستخدام إشارات أخرى غير مسموعة.\n\nوكان الحراس يصدرون أصواتاً تخرق الصمت. وكانت هذه الأصوات تحرم المعتقلين من النوم وتشكل ضرباً من ضروب التعذيب النفسي. في الليل كانوا يبثون أغنية مؤيدة للأسد من أداء المغنية اللبنانية نجوى كرم المرة تلو المرة. قال سلام إنه لا يمكن أن ينسى هذه الأغنية أبداً: 'منرفع أيدينا بعتمات  الليالي. منحلف عشرفنا وع اسمك الغالي. سوريا بلدنا.. حافظ [الأسد] يا أسدنا'.\n\nكان الصوت مجلجلاً بحيث كان يشعر أن رأسه 'سوف ينفجر. كان بالفعل عالياً ورهيباً. ولم يكن بإمكانك أن تقدر من أين يأتي. المبنى كله كان يهتز، وكأنك كنت تسمع الجدران. كان المبنى يردد الصدى. وبدا وكأن الأصوات كانت تشق الحائط'.\n\nكانت الأغنية تبث بمكبرات صوت تثقب طبلة الأذن لتخترق جناح الزنازين الانفرادية تحت الأرض، بينما كانت أصوات عمليات الضرب تتخللها في كثير من الأحيان.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة سلام باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Anas’s Solitary Cell",
+            "nameAr": "زنزانة أنس الانفرادية",
+            "slug" : "solitary-3",
+            "objRoom" : "obj/rooms/solitary-e.js",
+            "obj360" : [
+                "isoCell03"
+            ],
+            "light" : 3.5,
+            "camera" : {
+                "position" : {
+                    "x": 1.45,
+                    "y": 1.2,
+                    "z": 1.58
+                },
+                "lookAt": {
+                    "x": 1.26,
+            		"y": 1.35,
+            		"z": 0.89
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyCrouchA",
+        			"x": 0.34,
+        			"z": 0.28,
+        			"y": 0,
+        			"angle": 41
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 1.62,
+        			"z": 1.22,
+        			"y": 0,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 0.81,
+        			"z": 1.57,
+        			"y": 0,
+        			"angle": 180
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 1.45,
+        			"z": 2.05,
+        			"y": 0.79,
+        			"angle": 35
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 0.28,
+        			"z": 1.07,
+        			"y": 0.79,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 1.54,
+        			"z": 0.56,
+        			"y": 0.79,
+        			"angle": 100
+        		}
+            ],
+            "objects": [
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "isoCell03_butBowl",
+                    "mediaId" : "04",
+                    "isGrey" : true
+                }
+            ],
+            "sound" : {
+                "ambient" : "anas_solitary"
+            },
+            "info" : "After his arrival in Saydnaya, Anas spent 13 days with nine other prisoners in this cell, less than four square metres in size, designed for one person in solitary confinement.\n\nPrisoners had to take turns sitting. When they slept, they had to cram their bodies in a tight formation just to fit. “You feel like you’re in a matchbox,” Anas told us. They were served food once a day, and were always starving: “There is no rubbish. We eat everything, even the egg shells and olive pits.”\n\nAnas did not see anything outside his cell. When he was taken elsewhere in the prison, he was forced to cover his eyes with his hands. Once, during a beating outside his cell, he was struck on his face, which caused his hands to slip away from his eyes. In this moment, he caught a single glimpse of the corridor. From this flash, he recalled “a round space with the cell doors organized in a circle.”\n\nThe circular corridor Anas described may not be precise as an architectural form, but is rather a reflection of his harrowing memories and his sense of total incarceration.\n\nWhen he was in his cell, Anas could hear different sounds including the jangling of the guards’ keys which “made a sound like a bell” and metal food bowls scraping the floor outside. These sounds echoed in a way that could support the perception of an enclosed spherical space.\n\nThis image space and soundtrack were reconstructed from Anas’ memory using computer architectural and acoustic modelling.",
+            "infoAr": "بعد وصوله إلى صيدنايا، قضى أنس 13 يوماً مع تسعة سجناء آخرين في زنزانة لا تقل مساحتها عن أربعة أمتار مربعة، ومصممة لاستيعاب شخص واحد في الحبس الانفرادي.\n\nكان على السجناء الجلوس بالدور. وعندما كانوا ينامون، كان عليهم أن يتكوموا ملتصقين ببعضهم البعض. وصف أنس لنا الوضع كما يلي: 'تشعر وكأنك في علبة كبريت'. كان الطعام يقدم إليهم مرة واحدة في اليوم، وكانوا طوال الوقت على وشك الموت جوعاً: 'لم يكن هناك فضلات. كنا نأكل كل شيء، حتى قشر البيض وبذور الزيتون'.\n\nلم يكن أنس يرى شيئاً خارج زنزانته. وعندما كان يُؤخذ إلى مكان آخر في السجن، كان يجبر على تغطية عينيه بيديه. وفي إحدى المرات، وأثناء تعرضه للضرب خارج الزنزانة، ضرب على وجهه فانزلقت يداه عن عينيه. وفي هذه اللحظة لمح الممر. ومن هذه اللمحة يتذكر 'فناءً مستديراً وأبواب الزنازين مرتبة على شكل دائرة'.\n\nوقد لا يكون الممر الدائري الذي وصفه أنس دقيقاً من حيث شكله المعماري، وإنما انعكاس لذكرياته المروعة وإحساسه بالحصار التام.\n\nوعندما كان في زنزانته، كان أنس يسمع أصواتاً مختلفة بينها صوت ارتطام مفاتيح  الحراس بعضها ببعض، التي يقول إنها 'أصدرت صوتاً كصوت الجرس'، وصوت أوعية الطعام المعدنية وهي ترتطم بالأرض خارج الزنزانة. وترددت  هذه الأصوات  بطريقة تعزز وجود  مساحة دائرية مغلقة.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة أنس باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Samer & Jamal’s Group Cell",
+            "nameAr" : "زنزانة سامر و جمال الجماعية",
+            "slug" : "group-cell-1",
+            "objRoom" : "obj/rooms/groupcell-a-c.js",
+            "obj360" : [
+                "groupCell01"
+            ],
+            "light" : 1,
+            "camera" : {
+                "position" : {
+                    "x": 3.87,
+            		"y": 1.60,
+            		"z": 3.28
+                },
+                "lookAt": {
+                    "x": 4.45,
+            		"y": 1.40,
+            		"z": 2.8
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyKneeA",
+        			"x": 5.98,
+        			"z": 3.09,
+        			"y": 0,
+        			"angle": -92
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 6.47,
+        			"z": 0.35,
+        			"y": 0,
+        			"angle": -91
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 7.62,
+        			"z": 0.83,
+        			"y": 0,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 7.18,
+        			"z": 1.90,
+        			"y": 0,
+        			"angle": -110
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 5.72,
+        			"z": 1.86,
+        			"y": 0,
+        			"angle": -80
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 5.5,
+        			"z": 3.27,
+        			"y": 0,
+        			"angle": -94
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 6.45,
+        			"z": 0.94,
+        			"y": 0,
+        			"angle": -91
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 7.15,
+        			"z": 2.90,
+        			"y": 0,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 6.87,
+        			"z": 3.30,
+        			"y": 0,
+        			"angle": -110
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 7.09,
+        			"z": 3.84,
+        			"y": 0,
+        			"angle": -97
+        		},
+        		{
+        			"name": "bodyKneeA",
+        			"x": 7.62,
+        			"z": 1.47,
+        			"y": 0,
+        			"angle": -100
+        		},
+        		{
+        			"name": "bodyKneeB",
+        			"x": 6.30,
+        			"z": 3.64,
+        			"y": 0,
+        			"angle": -82
+        		},
+        		{
+        			"name": "bodyKneeB",
+        			"x": 6.02,
+        			"z": 1.27,
+        			"y": 0,
+        			"angle": -88
+        		},
+        		{
+        			"name": "bodyKneeB",
+        			"x": 6.59,
+        			"z": 1.49,
+        			"y": 0,
+        			"angle": -77
+        		},
+        		{
+        			"name": "bodyKneeB",
+        			"x": 7.80,
+        			"z": 2.14,
+        			"y": 0,
+        			"angle": -75
+        		},
+        		{
+        			"name": "bodyKneeB",
+        			"x": 6.00,
+        			"z": 0.30,
+        			"y": 0,
+        			"angle": -80
+        		},
+        		{
+        			"name": "bodyKneeC",
+        			"x": 7.15,
+        			"z": 0.44,
+        			"y": 0,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyKneeC",
+        			"x": 6.08,
+        			"z": 0.78,
+        			"y": 0,
+        			"angle": -88
+        		},
+        		{
+        			"name": "bodyKneeC",
+        			"x": 7.75,
+        			"z": 2.66,
+        			"y": 0,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyKneeC",
+        			"x": 6.57,
+        			"z": 2.72,
+        			"y": 0,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodyKneeC",
+        			"x": 6.69,
+        			"z": 3.90,
+        			"y": 0,
+        			"angle": -105
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 5.73,
+        			"z": 2.60,
+        			"y": 0,
+        			"angle": -99
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 6.52,
+        			"z": 3.29,
+        			"y": 0,
+        			"angle": -99
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 7.07,
+        			"z": 1.00,
+        			"y": 0,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 6.50,
+        			"z": 2.06,
+        			"y": 0,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 7.75,
+        			"z": 3.26,
+        			"y": 0,
+        			"angle": -105
+        		},
+        		{
+        			"name": "bodyKneeD",
+        			"x": 7.76,
+        			"z": 3.86,
+        			"y": 0,
+        			"angle": -108
+        		},
+        		{
+        			"name": "bodyKneeE",
+        			"x": 7.81,
+        			"z": 0.29,
+        			"y": 0,
+        			"angle": -77
+        		},
+        		{
+        			"name": "bodyKneeE",
+        			"x": 7.08,
+        			"z": 1.47,
+        			"y": 0,
+        			"angle": -90
+        		},
+        		{
+        			"name": "bodyKneeE",
+        			"x": 6.17,
+        			"z": 2.27,
+        			"y": 0,
+        			"angle": -100
+        		},
+        		{
+        			"name": "bodyKneeE",
+        			"x": 7.20,
+        			"z": 2.34,
+        			"y": 0,
+        			"angle": -80
+        		},
+        		{
+        			"name": "bodyKneeE",
+        			"x": 5.91,
+        			"z": 3.83,
+        			"y": 0,
+        			"angle": -83
+        		}
+        	],
+            "objects": [
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "groupcell01_tellingtime_button",
+                    "mediaId" : "13",
+                    "opacity": 0.5
+                }
+            ],
+            "sound" : {
+                "ambient" : "jamal_and_samer_group"
+            },
+            "info" : "The posture of the 28 detainees in this cell is based on witnesses’ descriptions of the ‘security position’ they had to assume whenever the guards opened the door: all prisoners had to kneel, cover their eyes with their hands and face the wall.\n\nThey were not allowed to talk or even whisper, and were told that any sound would be punished by beatings. They were also forbidden to scream when they were tortured.\n\nDetainees became attuned to changes in the weather by listening to the air outside. “When we heard the wind, we feared the cold,” said Samer. “You would look around you, and think: ‘we will be one or two people fewer after this storm”. They also heard the sounds of gunfire, artillery, bombs and planes in the distance.\n\nDeprived of any other sound, the witnesses were acutely aware of the noises of the building. They followed the hum of the pipes and the rhythm of water dripping from the ceiling. When it was most quiet, they could hear other prisoners killing lice: “the sound is like when you click sesame seeds with your nails,” said Jamal.\n\nDeep, “wall-shaking” reverberations would signal to the prisoners that torture was underway somewhere in the prison. Such reverberations were the constant backdrop to life in Saydnaya.\n\nWhen the sparrows on the window ledges of the exterior hallway suddenly flew away, prisoners could tell guards were approaching. Sometimes, prisoners would hear “five clicks and hinges squealing” as the two large, metal gates to their wing were opened.\n\nFamished, they would listen for the arrival of the food trucks. The sound would be “different if it was three bags or 10 bags or 20 bags of bread,” said Samer. “Sometimes, if the sound is very faint ,you can hear people crying, because they know there won’t be enough to eat.”\n\nThis image space and soundtrack were reconstructed from the memory of Samer and Jamal using computer architectural and acoustic modelling.",
+            "infoAr": "إن وضع المعتقلين الـ 28 الذين سجنوا في هذه الزنزانة، يستند إلى توصيفات الشهود 'للوضع الأمني' الذي كان عليهم اتخاذه كلما فتح الحراس باب الزنزانة: حيث كان على جميع السجناء أن يركعوا، وأن يغطوا عيونهم بأيديهم في مواجهة الحائط.\n\nلم يُسمح لهم بالكلام أو حتى بالهمس، وكانوا يُبلّغون بأن اصدار أي صوت سوف يعرضهم  للضرب. وكانوا يمنعون من الصراخ أيضاً عندما كانوا يتعرضون للتعذيب.\n\nكان المعتقلون يعرفون التغيرات في الطقس بالإنصات إلى صوت الريح في الخارج. يقول سامر: 'عندما كنا نسمع صوت الريح، كنا نخشى البرد. ثم تنظر من حولك وتفكّر :سنفقد واحداً أو اثنين منا بعد مرور هذه العاصفة'. وكانوا يسمعون من بعيد ،أصوات الرصاص وقذائف المدفعية والتفجيرات والطائرات.\n\nونتيجة لحرمانهم من سماع أي صوت آخر، كان الشهود على دراية بالأصوات التي تتردد في المبنى. فكانوا يتعقبون الهدير المنبعث من أنابيب المياه، وإيقاع صوت نقاط الماء وهي تتساقط من السقف. وعندما كان يسود السكون، كانوا يستطيعون سماع السجناء الآخرين وهم يقتلون القمل. قال جمال: 'كان الصوت شبيهاً بذاك الذي تسمعه عندما تضغط على حبة سمسم بين أظفريك'.\n\nوكانت الأصداء العميقة 'التي تهز الجدران'  تُعرّف السجناء بأن التعذيب يتم في مكان ما من السجن. وشكلت هذه الأصداء الخلفية الثابتة للحياة اليومية في صيدنايا.\n\nوعندما كانت تفرّ العصافير التي تقف على حواف الجدران الخارجية فجأة، كان السجناء يعلمون أن الحراس يقتربون. وأحياناً، كان السجناء يسمعون 'الطقات الخمس وصرير المفاصل '  عند فتح البوابتان المعدنيتان الرئيسيتان لجناحهم.\n\nوعند الجوع، كانوا يصغون بانتباه إلى صوت وصول شاحنات الطعام. يقول سامر إن الصوت كان يختلف عندما تكون هناك ثلاثة أكياس أو 10 أكياس أو 20 كيساً من الخبز. وكان باستطاعتك أحياناً إذا ما كانت الأصوات من حولك خافتة أن تسمع بكاء البعض بعد معرفتهم بأنه لن يكون هناك ما يكفي من الطعام'.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة سامر وجمال باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Salam’s Group Cell",
+            "nameAr": "زنزانة سلام الجماعية",
+            "slug" : "group-cell-2",
+            "objRoom" : "obj/rooms/groupcell-d.js",
+            "obj360" : [
+                "groupCell02"
+            ],
+            "light" : 1,
+            "camera" : {
+                "position" : {
+                    "x": 6.37,
+            		"y": 1.0,
+            		"z": 1.95
+                },
+                "lookAt": {
+                    "x": 6.0,
+            		"y": 1.0,
+            		"z": 1.85
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyCrouchB",
+        			"x": 7.91,
+        			"z": 3.22,
+        			"y": 0,
+        			"angle": 74
+        		},
+        		{
+        			"name": "bodyCrouchB",
+        			"x": 4.79,
+        			"z": 3.40,
+        			"y": 0,
+        			"angle": -67
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 4.56,
+        			"z": 4.65,
+        			"y": 0,
+        			"angle": 40
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 3.70,
+        			"z": 3.77,
+        			"y": 0,
+        			"angle": -165
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 5.07,
+        			"z": 2.46,
+        			"y": 0,
+        			"angle": 20
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 7.90,
+        			"z": 2.37,
+        			"y": 0,
+        			"angle": -100
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 7.92,
+        			"z": 0.48,
+        			"y": 0,
+        			"angle": -100
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 7.03,
+        			"z": 0.23,
+        			"y": 0,
+        			"angle": -12
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 5.68,
+        			"z": 3.07,
+        			"y": 0.0,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 3.01,
+        			"z": 3.17,
+        			"y": 0.0,
+        			"angle": -115
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 2.54,
+        			"z": 1.39,
+        			"y": 0.0,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 3.91,
+        			"z": 2.91,
+        			"y": 0.0,
+        			"angle": 150
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 5.65,
+        			"z": 4.49,
+        			"y": 0.0,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 3.80,
+        			"z": 1.80,
+        			"y": 0.0,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodyRestE",
+        			"x": 5.07,
+        			"z": 1.00,
+        			"y": 0.22,
+        			"angle": -175
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 4.14,
+        			"z": 1.35,
+        			"y": 0.95,
+        			"angle": 70
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 3.24,
+        			"z": 1.64,
+        			"y": 0.95,
+        			"angle": -25
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 4.50,
+        			"z": 6.02,
+        			"y": 0.95,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 7.04,
+        			"z": 1.04,
+        			"y": 0.95,
+        			"angle": -50
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.36,
+        			"z": 6.22,
+        			"y": 0.18,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 5.57,
+        			"z": 5.35,
+        			"y": 0.18,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 7.68,
+        			"z": 1.49,
+        			"y": 0.18,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.92,
+        			"z": 0.50,
+        			"y": 0.18,
+        			"angle": -171
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.12,
+        			"z": 0.50,
+        			"y": 0.18,
+        			"angle": 164
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 2.57,
+        			"z": 6.33,
+        			"y": 0.84,
+        			"angle": -30
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 3.35,
+        			"z": 4.59,
+        			"y": 0.85,
+        			"angle": 68
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 6.99,
+        			"z": 3.58,
+        			"y": 0.84,
+        			"angle": -153
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 7.86,
+        			"z": 4.02,
+        			"y": 0.84,
+        			"angle": 82
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 6.24,
+        			"z": 0.67,
+        			"y": 0.84,
+        			"angle": 110
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 5.46,
+        			"z": 0.94,
+        			"y": 0.84,
+        			"angle": -57
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 2.33,
+        			"z": 0.32,
+        			"y": 0.92,
+        			"angle": -165
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 2.71,
+        			"z": 4.45,
+        			"y": 0.92,
+        			"angle": -88.36
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 7.23,
+        			"z": 4.11,
+        			"y": 0.92,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 5.68,
+        			"z": 0.32,
+        			"y": 0.92,
+        			"angle": 176
+        		}
+        	],
+            "objects": [
+                {
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.37,
+        			"angle": 0
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.50,
+        			"angle": 43
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.62,
+        			"angle": 5
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.75,
+        			"angle": 15
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.90,
+        			"angle": 35
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 5.48,
+        			"z": 6.1,
+        			"y": 0.75,
+        			"angle": 15
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.39,
+        			"angle": 0
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.54,
+        			"angle": 15
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.64,
+        			"angle": 75
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.75,
+        			"angle": 25
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.84,
+        			"angle": 5
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 0.94,
+        			"angle": 65
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.72,
+        			"z": 6.1,
+        			"y": 1.08,
+        			"angle": 120
+        		}
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "groupCell02_tile_button",
+                    "mediaId" : "07",
+                    "opacity" : 0.3
+                }
+            ],
+            "sound" : {
+                "ambient" : "salam_group"
+            },
+            "info" : "Salam did not leave this cell for three years. In the enforced silence and darkness, his sense of sound sharpened. Over the constant hum of heavy breathing and the faint moans from thousands of inmates, he listened for the chirping of sparrows outside his cell.\n\nThe water pipes and air vents of Saydnaya amplified and transported sound across the building. Places far away could sound nearer, and detainees never knew from where exactly the sound of a cough, moan  or beating came.\n\nOne detainee told us that the guards, aware of the acoustic properties of the building, went to the roof to try and locate cells in which people were talking or even whispering. They also tortured people next to air ducts, knowing that the terrifying sound would be transported through the building.\n\nReferring to the distinct sounds made by the implements of torture, Salam recalled: “The loudest was the ‘engine belt’ [a torture instrument made from a car tire or rubber belt]. Maybe you could even hear that on the third floor, because the walls would be shaking from the echo.”\n\nUnderstanding where the guards were was of the upmost importance if you were to survive Saydnaya. Salam would refrain from whispering and assume a safe distance from the ducts whenever he heard the sounds of radio, chatter or footsteps on the metal staircases near the guards’ rooms.\n\nAfter Salam was unexpectedly released, he found that his sense of space was extremely constrained. His eyes could not focus on objects further than eight meters–the size of his cell. His hearing, which became attuned to minute sounds, could not deal with the over-stimulation he was exposed to outside.\n\nOne of the strongest sensations of life in Saydnaya is impossible to recreate here. Permeating every aspect of the prisoners’ experience was the horrific stench of the building. Salam called it “the smell of death” – of illness, death, dirt and blood.\n\nThis space and soundtrack were reconstructed from Salam’s memory using computer architectural and acoustic modelling.",
+            "infoAr": "لم يغادر سلام هذه الزنزانة منذ ثلاث سنوات. ووسط الصمت والظلام القسريين أصبح إحساسه بالصوت أكثر حدة. فمن خلف الهمهمة المستمرة المنبعثة من التنفس العميق والتأوهات الخافتة لآلاف النزلاء، كان يسمع زقزقة العصافير خارج زنزانته.\n\nوكانت أنابيب المياه وفتحات التهوية في صيدنايا تضخم الأصوات وتنقلها في كافة أرجاء المبنى. فيمكن سماع الأصوات في البعيد قريبة، بينما لم يستطع المعتقلون أبداً أن يتعرفوا على المكان الذي صدحت منه تلك السعلة أو التنهيدة أو أصوات الضرب.\n\nأبلغنا أحد المعتقلين أن الحراس، الذين كانوا يدركون الخصائص الصوتية للمبنى، كانوا يصعدون إلى سقف المبنى بغرض تحديد الزنزانة التي يتكلم فيها الأشخاص أو حتى يهمسون. فكان السجانون يعذبون الأشخاص المحاذين لفتحات الهواء، لمعرفتهم بأن الصوت المروع سوف ينتقل إلى مختلف أرجاء المبنى.\n\nوفي إشارة إلى الأصوات المتميزة التي كانت تصدر عن عمليات التعذيب، يتذكر سلام: 'كان الصوت الأقوى هو صوت 'الدولاب' [يُجبر السجانون المعتقلين على ثني أجسامهم وإدخال رؤوسهم وأعناقهم وسيقانهم داخل إطار سيارة بحيث تُشل حركتهم تمامًا ويفقدون القدرة على التحرك وحماية أنفسهم ليبدأ الضرب بالهراوات والسياط وغيره]. ولربما كان بالإمكان سماع ذلك حتى في الطابق الثالث، لأن الجدران كانت تهتز بفعل الصدى'.\n\nوكان تحديد مكان وجود الحراس أهمية قصوى كي تبقى على قيد الحياة في صيدنايا. حيث كان سلام يمتنع عن الهمس ويبتعد عن فتحات التهوية  لمسافة آمنة كلما سمع صوت المذياع أو الثرثرة أو الخطوات على الأدراج المعدنية بالقرب من غرف الحراس.\n\nبعد الإفراج عن سلام، على نحو غير متوقع، تبين له أن إحساسه بالمساحة قد أصبح  محدوداً للغاية. فلم تكن عيناه قادرتين على التركيز على أشياء تبعد أكثر من ثمانية أمتار- أي أبعاد زنزانته. أما سمعه، الذي أصبح معتاداً على الأصوات الدقيقة، فلم يعد قادراً على التعامل مع كثرة الأصوات واثارتها خارج السجن.\n\nأما  أقوى الأحاسيس في حياة صيدنايا،يستحيل إعادة إنتاجها هنا؛رائحة النتانة المفرطة التي تفوح من المبنى، وتلازم كل جانب من جوانب حياة السجناء. أطلق عليها سلام اسم 'رائحة الموت'- وهي خليط من رائحة المرض والموت والقذارة والدم.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة سلام باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Anas’s Group Cell",
+            "nameAr" : "زنزانة أنس الجماعية",
+            "slug" : "group-cell-3",
+            "objRoom" : "obj/rooms/groupcell-e.js",
+            "obj360" : [
+                "groupCell03"
+            ],
+            "light" : 1,
+            "camera" : {
+                "position" : {
+                    "x": 2.53,
+            		"y": 1.70,
+            		"z": 3.90
+                },
+                "lookAt": {
+                    "x": 2.06,
+            		"y": 1.70,
+            		"z": 3.80
+                },
+                "fov" : 35,
+                "minPolar" : 0,
+                "maxPolar" : "PI"
+            },
+            "bodies": [
+                {
+        			"name": "bodyCrouchA",
+        			"x": 5.71,
+        			"z": 1.17,
+        			"y": 0,
+        			"angle": -65
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 2.30,
+        			"z": 0.28,
+        			"y": 0,
+        			"angle": 15
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 2.96,
+        			"z": 2.83,
+        			"y": 0,
+        			"angle": 25
+        		},
+        		{
+        			"name": "bodyCrouchA",
+        			"x": 7.86,
+        			"z": 3.93,
+        			"y": 0,
+        			"angle": -85
+        		},
+        		{
+        			"name": "bodyCrouchB",
+        			"x": 7.84,
+        			"z": 4.98,
+        			"y": 0,
+        			"angle": 75
+        		},
+        		{
+        			"name": "bodyCrouchB",
+        			"x": 6.48,
+        			"z": 4.72,
+        			"y": 0,
+        			"angle": -150
+        		},
+        		{
+        			"name": "bodyCrouchB",
+        			"x": 3.26,
+        			"z": 2.19,
+        			"y": 0,
+        			"angle": -50
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 6.99,
+        			"z": 3.18,
+        			"y": 0,
+        			"angle": -180
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 6.27,
+        			"z": 5.83,
+        			"y": 0,
+        			"angle": -31.8
+        		},
+        		{
+        			"name": "bodyCrouchC",
+        			"x": 4.12,
+        			"z": 3.49,
+        			"y": 0,
+        			"angle": -57
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 5.38,
+        			"z": 0.58,
+        			"y": 1.00,
+        			"angle": 160
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 6.43,
+        			"z": 4.14,
+        			"y": 1.01,
+        			"angle": -95
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 4.87,
+        			"z": 3.02,
+        			"y": 1.01,
+        			"angle": 90
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 7.41,
+        			"z": 5.60,
+        			"y": 1.00,
+        			"angle": 50
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 4.42,
+        			"z": 5.80,
+        			"y": 1.01,
+        			"angle": 0
+        		},
+        		{
+        			"name": "bodySitA",
+        			"x": 4.47,
+        			"z": 4.55,
+        			"y": 1.01,
+        			"angle": 155
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.26,
+        			"z": 0.40,
+        			"y": 0.17,
+        			"angle": -163
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 4.61,
+        			"z": 0.45,
+        			"y": 0.17,
+        			"angle": 157
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 5.29,
+        			"z": 5.05,
+        			"y": 0.17,
+        			"angle": 72
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.54,
+        			"z": 3.96,
+        			"y": 0.17,
+        			"angle": -13
+        		},
+        		{
+        			"name": "bodySitC",
+        			"x": 3.54,
+        			"z": 6.18,
+        			"y": 0.17,
+        			"angle": -13
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 3.65,
+        			"z": 1.41,
+        			"y": 0.83,
+        			"angle": -15
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 5.59,
+        			"z": 2.0,
+        			"y": 0.83,
+        			"angle": 50
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 5.23,
+        			"z": 5.88,
+        			"y": 0.83,
+        			"angle": 35
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 4.32,
+        			"z": 1.57,
+        			"y": 0.83,
+        			"angle": 155
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 3.94,
+        			"z": 5.14,
+        			"y": 0.83,
+        			"angle": -125
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 3.90,
+        			"z": 2.70,
+        			"y": 0.91,
+        			"angle": -60
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 4.63,
+        			"z": 2.21,
+        			"y": 0.91,
+        			"angle": 55
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 3.88,
+        			"z": 0.33,
+        			"y": 0.91,
+        			"angle": -175
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 5.29,
+        			"z": 4.11,
+        			"y": 0.91,
+        			"angle": 95
+        		}
+        	],
+            "objects": [
+                {
+        			"name": "blanket",
+        			"x": 0.76,
+        			"z": 0.63,
+        			"y": 0.4,
+        			"angle": 0
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.76,
+        			"z": 0.63,
+        			"y": 0.51,
+        			"angle": 25
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 0.76,
+        			"z": 0.63,
+        			"y": 0.6,
+        			"angle": -115
+        		},
+
+        		{
+        			"name": "blanket",
+        			"x": 0.76,
+        			"z": 0.63,
+        			"y": 0.86,
+        			"angle": 30
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.36,
+        			"angle": 10
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.47,
+        			"angle": -65
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.58,
+        			"angle": 25
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.67,
+        			"angle": 35
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.75,
+        			"angle": 65
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.55,
+        			"z": 0.57,
+        			"y": 0.85,
+        			"angle": -34
+        		},
+        		{
+        			"name": "blanket",
+        			"x": 1.54,
+        			"z": 0.58,
+        			"y": 0.94,
+        			"angle": -48
+        		}
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "groupCell03_toilette_button",
+                    "mediaId" : "06",
+                    "opacity" : 0.3
+                },
+                {
+                    "fileName" : "groupcell03_tileblanket_button",
+                    "mediaId" : "14",
+                    "opacity" : 0.5,
+                    "doubleSide": false,
+                    "opacityHighLight": 0.8
+                }
+            ],
+            "sound" : {
+                "ambient" : "anas_group"
+            },
+            "info" : "Anas closely observed the physical properties of his cell. Lacking any other visual stimulation, he measured the architectural elements, including 47 steel bars in the exterior wall of the cell. He also told us that the cell was 26 tiles long by 16 or 17 tiles wide. A fellow detainee who had worked in construction told him that the tiles were 33 cm square, so the room would have been roughly 8.6m by 5.6m. A “six-tile rule” meant the 30 prisoners were not allowed to enter the area that was six tiles – about two meters – from the door without risking some kind of beating or punishment.\n\nKept in enforced silence, Anas remembered the constant buzzing of the neon light in his room. This, and the whistle it emitted when the guards turned it on, reminded him of the sound of electric shock torture. In the rooms around him he could hear the sound of people being lashed with electrical cables.\n\nThe guards routinely produced sounds designed to terrorize prisoners. Anas described the guards creeping quietly through the corridor and then “opening all ten cell doors in the wing at once”, making a thundering sound that would terrify the entire wing and could be heard throughout the entire building.\n\nIn quieter moments, Anas could hear the guards in their quarters slurping maté and watching TV. Through the air vents, Anas could sometimes hear a faint call to prayer “far away in the distance” which indicated the time of the day. From the outside, he also heard what sounded like “heavy machinery, like a bulldozer.”\n\nIn the sub-zero, winter temperatures of Saydnaya, the cold was also used to torture the prisoners. “On the night of the 15th December 2013, a guard came and told us to get naked… then they hosed us with cold water. After two days, everyone fell ill.”\n\nThis image space and soundtrack were reconstructed from Anas’ memory, using computer architectural and acoustic modelling.",
+            "infoAr": "راقب أنس عن كثب شكل زنزانته وخصائصها. وإذ كانت تفتقر إلى أية تحفيزات بصرية أخرى، انشغل بتفحص عناصرها المعمارية، بما في ذلك 47 قضيباً فولاذياً في الجدار الخارجي للزنزانة. وأبلغنا كذلك بأن الزنزانة تشكلت من 26 بلاطة طولاً و16 أو 17 بلاطة عرضاً. وأبلغه زميل معتقل معه كان يعمل في البناء أن مساحة كل بلاطة هي 33 سنتيمتراً مربعاً، ولذا فقد كنت مساحة الغرفة بحدود 8.6 متر طولاً في 5.6 متر عرضاً. وبناء على 'قاعدة الست  بلاطات'، فلم يكن متاحاً للسجناء، البالغ عددهم 30 سجيناً، دخول منطقة بطول ستة  بلاطات- حوالي المترين-  عن الباب دون المجازفة بالتعرض لنوع أو آخر من الضرب أو العقاب. \n\nونظراً للصمت القسري الذي كان مهيمناً، تذكر أنس الأزيز المستمر لمصباح النيون في غرفته. وكان هذا الصوت يذكره،  بالاضافة الى الصفير الذي كان يصدره عندما يضيئه الحراس، بصوت الصعقة الكهربائية أثناء التعذيب. وكان يستطيع أن يسمع في الغرف المحيطة به صوت الأشخاص وهم يجلدون بالأسلاك الكهربائية.\n\nكان الحراس يصدرون بصورة روتينية أصواتاً يقصدون بها ترويع السجناء. ووصف أنس كيف كان الحراس يتسللون بهدوء عبر الممر وبعد ذلك 'يفتحون جميع أبواب الزنازين العشرة في الجناح دفعة واحدة' لتصدر صوتاً أشبه بصوت الرعد ويثير الرعب في الجناح بأكمله، وكان من الممكن سماعه في مختلف أرجاء المبنى.\n\nوفي اللحظات الأكثر هدوءاً، كان بإمكان أنس سماع الحراس في مهاجعهم وهم يرتشفون (القهوة) ويشاهدون التلفزيون. ومن خلال فتحات التهوية، كان أنس يسمع أحياناً نداء خافتاً للصلاة آت 'من مسافة بعيدة'، فيعرف في أي ساعة من النهار هم. ومن الخارج، كان يسمع أيضاً أصواتاً أشبه بأصوات 'آليات ثقيلة مثل جرافة'.\n\nوفي درجات الحرارة التي تهبط إلى ما دون الصفر في شتاء صيدنايا، كان البرد مصدر تعذيب آخر للسجناء. 'ليلة 15 ديسمبر/ كانون الأول 2013، جاء حارس وطلب منا أن نخلع ملابسنا.. ثم فتحوا خراطيم الماء البارد ووجهوها نحونا. وبعد يومين، مرض الجميع'.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من ذاكرة أنس باستخدام النماذج المعمارية والصوتية المحوسبة."
+        },
+        {
+            "name" : "Circulation",
+            "nameAr" : "المساحة المركزية",
+            "slug" : "corridor",
+            "objRoom" : "obj/rooms/corridor.js",
+            "obj360" : [
+                "corridor"
+            ],
+            "light" : 1,
+            "camera" : {
+                "position" : {
+                    "x" : 0,
+                    "y" : 1.75,
+                    "z" : 0
+                },
+                "lookAt": {
+                    "x" : 0,
+                    "y" : 1.95,
+                    "z" : 1
+                },
+                "fov" : 35,
+                "minPolar" : 1.59,
+                "maxPolar" : 1.59
+            },
+            "bodies": [
+                {
+        			"name": "bodyStandA",
+        			"x": -29.89,
+        			"z": -8.39,
+        			"y": 0.85,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": -28.84,
+        			"z": -8.32,
+        			"y": 0.9,
+        			"angle": 130
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 34.93,
+        			"z": -15.58,
+        			"y": 0.85,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 34.24,
+        			"z": -16.36,
+        			"y": 0.9,
+        			"angle": 130
+        		},
+        		{
+        			"name": "bodyStandA",
+        			"x": 12.8,
+        			"z": 30.35,
+        			"y": 0.85,
+        			"angle": 95
+        		},
+        		{
+        			"name": "bodyStandB",
+        			"x": 12.74,
+        			"z": 29.65,
+        			"y": 0.9,
+        			"angle": 130
+        		}
+            ],
+            "objects": [
+                {
+        			"name": "corridor_torture_tools",
+        			"x": 0,
+        			"z": 0,
+        			"y": 0,
+        			"angle": 0
+        		}
+            ],
+            "interactiveObjects": [
+                {
+                    "fileName" : "corridor_welcomepartybrahimi_button",
+                    "mediaId" : "12",
+                    "opacity": 0.8,
+                    "doubleSide": false,
+                    "opacityHighLight": 0.8,
+                    "colorHighlight" : "#ff00ff",
+                    "labelOffset": {
+                        "x" : 0,
+                        "y" : -50
+                    }
+                },
+                {
+                    "fileName" : "corridor_soundsilence_button",
+                    "mediaId" : "11",
+                    "opacity": 0.001,
+                    "opacityHighLight": 0.4,
+                    "colorHighlight" : "#ff00ff",
+                    "labelOffset": {
+                        "x" : 20,
+                        "y" : -30
+                    }
+                },
+                {
+                    "fileName" : "corridor_walkthroughdulab_button",
+                    "mediaId" : "10",
+                    "opacity": 0.8,
+                    "doubleSide": false,
+                    "opacityHighLight": 0.8,
+                    "colorHighlight" : "#ff00ff",
+                    "labelOffset": {
+                        "x" : 20,
+                        "y" : 0
+                    }
+                },
+                {
+                    "fileName" : "corridor_butApex",
+                    "mediaId" : "09",
+                    "opacity" : 1.0,
+                    "opacityHighLight" : 0.4,
+                    "labelOffset": {
+                        "x" : -170,
+                        "y" : 10
+                    }
+                }
+            ],
+            "sound" : {
+                "ambient" : "corridor"
+            },
+            "info": "The main building has wings projecting out of a central circulation hub. From the central space, patrolling guards can survey the separately gated wings. Prisoners in cells close to these areas were able to hear beatings, gates closing and being locked, the movements of guards, and newcomers being subjected to the ‘welcome party’.\n\nIn the moments after arrival, prisoners listened to the torture and beatings of fellow detainees, and waited, with dread, for their turn. Their memories were often fragmented because of the pain and terror. “I got really confused from the beatings,” Anas told us. “You just think about walking straight and fast and [trying] not to be beaten.”\n\nNo detainees were allowed to walk though the central hub with their eyes open – they were either blindfolded, forced to hold their palms tight against their eyes, or to pull their shirts up over their heads and to cover their faces.  When they were led through the prison, detainees were forced to hold the waist of the person in front of them and to bow down, in a formation detainees called ‘the train’.\n\nWe have reconstructed this space from the little that witnesses could describe or estimate, and from identifying stairwells in satellite images and after studying other examples of prison architecture. “Any Saydnaya prisoner could describe the prison from the inside,” Samer told us, “but as for the route, no one can determine the real dimensions.”\n\nThere is one notable exception to this pattern. Diab Serriya was imprisoned in Saydnaya before 2011 and in 2008, he was present during the infamous riot by the prisoners. During the riot, he was able to explore areas of the prison that remained completely unknown to the other witnesses.\n\nSome of the witnesses described certain spaces as much larger, staircases much longer, corridors as circular rather than straight as we know them to be. Upon being released after three years in Saydnaya, one witness turned back to look at the prison, and – seeing it from the outside for the very first time –recalled a building that towered some seven stories above him. In fact, it is only three floors above ground. Such memory distortions are common when the initial experience was especially traumatic or painful, and are themselves evidence of the violence experienced by detainees.\n\nThe image space and soundtrack were reconstructed from witness interviews using computer architectural and acoustic modelling.",
+            "infoAr": "يتشكل مبنى السجن من أجنحة تتفرّع من مركز رئيسي. وانطلاقاً من هذه المساحة المركزية، يستطيع الحراس الذين يتولون الحراسة مراقبة الأجنحة ذات البوابات المنفصلة. وكان بإمكان السجناء الذين وضعوا في زنازين قريبة من هذه المنطقة سماع أصوات الضرب، والبوابات وهي تغلق وتوصد، وتحركات الحراس، والقادمين الجدد وهم يخضعون 'لحفل  الترحيب'.\n\nفي اللحظات التي تلي الوصول، يستمع السجناء لأصوات التعذيب والضرب التي يخضع لها زملاؤهم من المعتقلين وينتظرون دورهم ويتملكهم الرعب. وكثيراً ما كانت ذاكرتهم تتشتت بسبب الألم والرعب. قال لنا أنس: 'شعرت بالارتباك فعلاً بسبب الضرب. فكل ما تفكر فيه هو أن تمشي بشكل مستقيم وسريع وتحاول تحاشي الضرب'.\n\nلم يُسمح لأي من المعتقلين بالسير عبر المركز الرئيسي وعيونهم مفتوحة- فكانوا إما معصوبي العينين، أو يجبرون على إغلاق عيونهم بوضع أكفهم عليها ، أو تغطية رؤوسهم بقمصانهم وشدها على عيونهم لحجب الرؤية. وعندما كانوا يقادون عبر ممرات السجن، كان المعتقلون يجبرون على الإمساك بخاصرة الشخص الذي أمامهم والانحناء، في وضعية  أطلق عليها المعتقلون اسم 'القطار'.\n\nلقد قمنا بتركيب صورة  هذه المساحة بالاعتماد على التوصيفات القليلة التي استطاع الشهود تذكرها أو تقديرها، ومن خلال التعرف على الأدراج في صور الأقمار الصناعية، وبعد دراسة نماذج أخرى لعمارة السجن.'يمكن لأي سجين في صيدنايا أن يصف السجن من الداخل، أما بالنسبة للطريق، فلا أحد يستطيع تحديد أبعادها الحقيقية'/ أخبرنا سامر\n\nولكن هناك استثناء واحد ملفت للنظر لهذا النمط. سجن 'دياب سرية' في صيدنايا قبل 2011، في 2008، حيث كان حاضراً أثناء عملية الشغب السيئة الصيت التي قام بها السجناء.آنذاك، تمكن دياب من استكشاف مناطق في السجن ظلت مجهولة تماماً بالنسبة للشهود الآخرين.\n\nوصف بعض الشهود مساحات معينة بأنها كانت أكبر بكثير، وأدراجاً بأنها أطول بكثير ودائرية وليست مستقيمة كما نعرفها. فبعد الإفراج عنه بعد قضاء ثلاث سنوات في صيدنايا، استدار أحد الشهود لينظر إلى السجن؛ وحسبما يتذكر، رأى وللمرة الأولى مبنى شاهقاً من سبع طبقات فوق رأسه. وفي  الواقع، لا يزيد ارتفاع المبنى على ثلاثة طوابق فوق الأرض. ومثل هذه التشوهات في الذاكرة أمر شائع، وخاصة عندما تكون التجربة الأولى صادمة أو مؤلمة بصورة خاصة، وهذا بحد ذاته شهادة على مدى العنف الذي تعرض له المعتقلون.\n\nأعيد تركيب المساحة المخصصة للصورة والتسجيل الصوتي من مقابلات الشهود باستخدام النماذج المعمارية والصوتية المحوسبة."
+        }
+    ],
+
+	"witnesses": [
+        {
+            "name" : "Samer",
+            "nameAr" : "سامر",
+            "slug" : "a"
+        },
+        {
+            "name" : "Diab",
+            "nameAr" : "دياب",
+            "slug" : "b"
+        },
+        {
+            "name" : "Jamal",
+            "nameAr" : "جمال",
+            "slug" : "c"
+        },
+        {
+            "name" : "Salam",
+            "nameAr" : "سلام",
+            "slug" : "d"
+        },
+        {
+            "name" : "Anas",
+            "nameAr" : "أنس",
+            "slug" : "e"
+        }
+	],
+
+	"media" : [
+        {
+            "title" : "Arrival",
+            "titleAr" : "الوصول إلى صيدنايا",
+            "id" : "00",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175314487.hd.mp4?s=25e3b50f5a1512739105f998474fd38050bc4ba4&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175314487.sd.mp4?s=99e228a836c68ef4400a7f07fb894f6b358a51a9&profile_id=164"
+            },
+            "poster": "https://i.vimeocdn.com/video/586310410.webp?mw=1920&mh=1080",
+            "witness" : ["d"],
+            "location" : "reception"
+        },
+        {
+            "title" : "Through the Window",
+            "titleAr" : "عبر النافذة",
+            "id" : "01",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175313326.hd.mp4?s=21cef6228fc2d65a2c80d2eb085bdce7b9fa7cfe&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175313326.sd.mp4?s=27f65bd9993ccb48ebd87f3f7192712dad40b1a2&profile_id=164"
+            },
+            "poster": "https://i.vimeocdn.com/video/586308523.webp?mw=1920&mh=1080",
+            "witness" : ["a"],
+            "location" : "solitary-1"
+        },
+        {
+            "title" : "“One drop of Water”",
+            "titleAr" : "“قطرة ماء”",
+            "id" : "02",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175316856.hd.mp4?s=9e7fe2c0a8a1c9207dc19b12eeab636886dbede2&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175316856.sd.mp4?s=122fb9fd675d13edcc4133f2fbadc35deba4f4f7&profile_id=164"
+            },
+            "poster": "https://i.vimeocdn.com/video/586320682.webp?mw=1920&mh=1080",
+            "witness" : ["a", "c"],
+            "location" : "solitary-1"
+        },
+        {
+            "title" : "“Where are we?”",
+            "titleAr" : "“أين نحن؟”",
+            "id" : "03",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175314166.hd.mp4?s=ca1cdb2d02eeeb199008bbe1da9646175d6fb07f&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175314166.sd.mp4?s=607accd3ef0a2b65645cec933e109bbdf282d2bc&profile_id=164"
+            },
+            "poster": "https://i.vimeocdn.com/video/586325894.webp?mw=960&mh=540",
+            "witness" : ["d"],
+            "location" : "solitary-2"
+        },
+        {
+            "title" : "“Fear starts in the afternoon”",
+            "titleAr" : "“الخوف يبدأ في المساء”",
+            "id" : "04",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175315153.hd.mp4?s=a16fc8f31ade0fd68adb64b78dfdd135d3c873fe&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175315153.sd.mp4?s=d942c4af79ff0ddad99f167a8ab4b2ad52716ecf&profile_id=164"
+            },
+            "poster" : "https://i.vimeocdn.com/video/582395858.webp?mw=960&mh=540",
+            "witness" : ["e"],
+            "location" : "solitary-3"
+        },
+        {
+            "title" : "Constant Hunger",
+            "titleAr" : "جوع مستمر",
+            "id" : "06",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175317106.hd.mp4?s=bfa310e8c46967ae8863ad94937084b0bfc9136c&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175317106.sd.mp4?s=8c81bd77411175d38dcd72ec27acc8f839b93a7c&profile_id=164"
+            },
+            "poster" : "https://i.vimeocdn.com/video/586331186.webp?mw=960&mh=540",
+            "witness" : ["e"],
+            "location" : "group-cell-3"
+        },
+        {
+            "title" : "“Time stretches out”",
+            "titleAr" : "“يمر الوقت بلا نهاية”",
+            "id" : "07",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175315554.hd.mp4?s=3b60d1d70221fd32710524da72da3a79a3cb0267&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175315554.sd.mp4?s=d04f7c9c7f58b70240b06f6c48ac712a30b79550&profile_id=164"
+            },
+            "poster" : "https://i.vimeocdn.com/video/586332352.webp?mw=960&mh=540",
+            "witness" : ["d"],
+            "location" : "group-cell-2"
+        },
+
+        {
+            "title" : "The road to Saydnaya",
+            "titleAr" : "الطريق إلى صيدنايا",
+            "id" : "08",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178636312.hd.mp4?s=49b52d480ecee944eb19e8005c4ae6f6b69319ca&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178636312.sd.mp4?s=e12f1a3d2c60fd068803a01f8f776d3920c6c3e8&profile_id=164"
+            },
+            "poster" : "https://i.vimeocdn.com/video/586334052.webp?mw=960&mh=540",
+            "witness" : ["c"],
+            "location" : "reception"
+        },
+        {
+            "title" : "Architecture of memory",
+            "titleAr" : "بُنية الذاكرة ",
+            "id" : "09",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/175314664.hd.mp4?s=ecb1627c6125dac45835bc627d74fbdbb8fbafdc&profile_id=174",
+                "sd": "https://player.vimeo.com/external/175314664.sd.mp4?s=69f1111feccd14855f695a92b689154939ee0a49&profile_id=164"
+            },
+            "poster" : "https://i.vimeocdn.com/video/586329913.webp?mw=960&mh=540",
+            "witness" : ["e"],
+            "location" : "corridor"
+        },
+        {
+            "title" : "Walk through the buidling",
+            "titleAr" : "السير داخل المبنى",
+            "id" : "10",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178660616.hd.mp4?s=924108b1915a57f04616a5e114288cdb6180115f&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178660616.sd.mp4?s=612999ede3a40e7bf1c7131b829648c797280038&profile_id=164"
+            },
+            "poster" : "",
+            "witness" : ["b"],
+            "location" : "corridor"
+        },
+        {
+            "title" : "Architecture of sound",
+            "titleAr" : "تركيب الصوت",
+            "id" : "11",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178643732.hd.mp4?s=bcd5f87575254724f90c7fb7b80a96c799bd49b4&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178643732.sd.mp4?s=65b72f6afa7fa12026e483cdd6893a5569215afa&profile_id=164"
+            },
+            "poster" : "",
+            "witness" : ["a","b","c","d"],
+            "location" : "corridor"
+        },
+        {
+            "title" : "Welcome Party",
+            "titleAr" : "حفلة الترحيب",
+            "id" : "12",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178644039.hd.mp4?s=e1acc294c34a7fa3dde3f15c5b0224a5af292ed9&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178644039.sd.mp4?s=2adb551d88a2169060527f49e140be556fbab0fb&profile_id=164"
+            },
+            "poster" : "",
+            "witness" : ["a","c","d", "e"],
+            "location" : "corridor"
+        },
+        {
+            "title" : "Telling the time",
+            "titleAr" : "تحديد الوقت",
+            "id" : "13",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178644151.hd.mp4?s=25e04d811988223fad624d9b1755255ea74777c0&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178644151.sd.mp4?s=180fbb0b1154dd26140dec01718998b2f606e5ce&profile_id=164"
+            },
+            "poster" : "",
+            "witness" : ["a","c"],
+            "location" : "group-cell-1"
+        },
+        {
+            "title" : "The six tile rule",
+            "titleAr" : "قاعدة الست بلاطات",
+            "id" : "14",
+            "video" : {
+                "hd": "https://player.vimeo.com/external/178644341.hd.mp4?s=6e92ce5789ae2668358d8b05ae9cba40f8a6c812&profile_id=174",
+                "sd": "https://player.vimeo.com/external/178644341.sd.mp4?s=fc9375f5356922159e06fd1480685bf487eea084&profile_id=164"
+            },
+            "poster" : "",
+            "witness" : ["e"],
+            "location" : "group-cell-3"
+        }
+	],
+
+    "introVideo" : {
+        "hd": "https://player.vimeo.com/external/178646921.hd.mp4?s=45ca9af1894b3992eb994e602b6d7644e276c9c3&profile_id=174",
+        "sd": "https://player.vimeo.com/external/178646921.sd.mp4?s=1b3897011a716a2fe99135133d5f1f0392c252e3&profile_id=164",
+        "poster" : ""
+    },
+
+    "mainScreenSound" : {
+        "ambient" : "exterior"
+    }
+}
